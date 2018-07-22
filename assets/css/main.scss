@@ -1,0 +1,7 @@
+---
+# Jekyll needs front matter for SCSS files
+---
+
+@import "hydeout";
+.home #sidebar .site-title { font-size: 1.5rem; }
+@media (min-width: 49rem) { #sidebar .site-title { font-size: 1.5rem; } }
