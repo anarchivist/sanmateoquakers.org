@@ -7,6 +7,8 @@ Held under the care of the [Palo Alto Friends Meeting](http://www.pafm.org), the
 
 ## Schedule
 
+**The location for the February 10, 2019 Meeting for Worship has changed.** Please see the [Facebook event](https://www.facebook.com/events/508870699519999/) for more details.
+
 The San Mateo Worship Group meets every 2nd and 4th First Day (Sunday) at 10:00 AM at the **Gardeners' Association Hall** of the San Mateo Japanese-American Community Center, at [503 East 5th Avenue, San Mateo, CA](https://goo.gl/maps/dUF4DYRoydx).
 
 Light refreshments will be available after each meeting for worship. We welcome all seekers, including those new to Quaker worship, to join us.
