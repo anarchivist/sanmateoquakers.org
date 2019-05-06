@@ -12,7 +12,9 @@ We welcome all who are interested in joining us for worship, whether you have be
 
 ## Schedule
 
-The San Mateo Worship Group meets every 2nd and 4th First Day (Sunday) at 10:00 AM at the **Gardeners' Association Hall** of the San Mateo Japanese-American Community Center, at [503 East 5th Avenue, San Mateo, CA](https://goo.gl/maps/dUF4DYRoydx).
+The next two meetings for worship are scheduled for May 12 and May 26, 2019. 
+
+Starting in June 2019, The San Mateo Worship Group meets every 1st and 3rd First Day (Sunday) at 10:00 AM at the **Gardeners' Association Hall** of the San Mateo Japanese-American Community Center, at [503 East 5th Avenue, San Mateo, CA](https://goo.gl/maps/dUF4DYRoydx).
 
 Light refreshments will be available after each meeting for worship. We welcome all seekers, including those new to Quaker worship, to join us.
 
