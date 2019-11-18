@@ -2,6 +2,16 @@
 # Jekyll needs front matter for SCSS files
 ---
 
+$sidebar-fg-color: rgba(0,0,0,1);
+$sidebar-bg-color: rgba(255,255,255,0) !default;
+$sidebar-text-color: rgba(0,0,0,1);
+$sidebar-link-color: rgba(0,0,0,1);
 @import "hydeout";
 .home #sidebar .site-title { font-size: 1.5rem; }
-@media (min-width: 49rem) { #sidebar .site-title { font-size: 1.5rem; } }
+#sidebar .logo { display: none; }
+.home #sidebar .logo { display: none; }
+@media (min-width: 49rem) {
+  #sidebar .site-title { font-size: 1.5rem; }
+  #sidebar .logo, .home #sidebar .logo { display: block; }
+}
+#sidebar nav > * { line-height: 1.4; }
