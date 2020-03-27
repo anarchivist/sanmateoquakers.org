@@ -8,6 +8,7 @@ $sidebar-text-color: rgba(0,0,0,1);
 $sidebar-link-color: rgba(0,0,0,1);
 $link-color: #2166A3;
 @import "hydeout";
+body { background-image: none; }
 .home #sidebar .site-title { font-size: 1.5rem; }
 #sidebar .logo { display: none; }
 .home #sidebar .logo { display: none; }
