@@ -3,9 +3,10 @@
 ---
 
 $sidebar-fg-color: rgba(0,0,0,1);
-$sidebar-bg-color: rgba(255,255,255,0) !default;
+$sidebar-bg-color: rgba(255,255,255,0);
 $sidebar-text-color: rgba(0,0,0,1);
 $sidebar-link-color: rgba(0,0,0,1);
+$link-color: #2166A3;
 @import "hydeout";
 .home #sidebar .site-title { font-size: 1.5rem; }
 #sidebar .logo { display: none; }
@@ -31,5 +32,5 @@ $sidebar-link-color: rgba(0,0,0,1);
   }
 }
 .alert.info {
-  background-color: #2196F3;
+  background-color: #2166A3;
 }
