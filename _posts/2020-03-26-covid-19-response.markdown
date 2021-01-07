@@ -8,10 +8,10 @@ The San Mateo Quaker Worship Group is meeting virtually via Zoom video-&#8203;co
 
 **To connect to online meeting for worship:**
 
-* Join from PC, Mac, Linux, iOS or Android: [https://zoom.us/j/92724583494](https://zoom.us/j/96369242472?pwd=eHRlVm5jdHJBNUpBNWFhSERxczJRdz09), passcode **419568**
-* Or join by telephone: dial +1 669 900 6833 and enter meeting ID 92724583494
+* Join from PC, Mac, Linux, iOS or Android: [https://zoom.us/j/96369242472](https://zoom.us/j/96369242472?pwd=eHRlVm5jdHJBNUpBNWFhSERxczJRdz09), passcode **419568**
+* Or join by telephone: dial +1 669 900 6833 and enter meeting ID 96369242472
 * When you join, tell the host that you want to join the San Mateo Worship Group.
-* See our [Facebook event](https://www.facebook.com/events/267143127945292/) for more information.
+* See our [Facebook event](https://www.facebook.com/events/205836654520245/) for more information.
 * See *Western Friend*'s how-to guide for using [Zoom video-&#8203;conferencing](https://westernfriend.org/media/how-use-zoom-videoconferencing).
 
 ## Additional options for online Quaker Worship and Fellowship
